@@ -3,7 +3,6 @@ import pyrebase
 config = {
     "apiKey": "AIzaSyCi5-vfmk7VW2xFtgacj3_arjL04KeaW2A",
     "authDomain": "dawaat-9e0f1.firebaseapp.com",
-    "databseURL":"https://dawaat-9e0f1-default-rtdb.firebaseio.com",
     "projectId": "dawaat-9e0f1",
     "storageBucket": "dawaat-9e0f1.appspot.com",
     "messagingSenderId": "55134356040",
